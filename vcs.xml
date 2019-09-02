@@ -14,8 +14,16 @@
           <option name="url" value="https://github.com/callicoder/java-read-write-excel-file-using-apache-poi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.pstlabs.by" />
+          <option name="userName" value="ausau" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ausau@bitbucket.pstlabs.by/scm/belgaz/bgpb-srp-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Alex" />
+    <option name="cloneParentDir" value="D:\gazprom" />
   </component>
 </application>
