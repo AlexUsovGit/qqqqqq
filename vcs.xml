@@ -22,8 +22,12 @@
           <option name="url" value="https://ausau@bitbucket.pstlabs.by/scm/belgaz/bgpb-srp-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mdewilde/chart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\gazprom" />
+    <option name="cloneParentDir" value="D:\Git" />
   </component>
 </application>
